@@ -1,0 +1,7 @@
+C:\Users\domin\source\repos\MedzioIndukcija\MedzioIndukcija\bin\Debug\MedzioIndukcija.exe.config
+C:\Users\domin\source\repos\MedzioIndukcija\MedzioIndukcija\bin\Debug\MedzioIndukcija.exe
+C:\Users\domin\source\repos\MedzioIndukcija\MedzioIndukcija\bin\Debug\MedzioIndukcija.pdb
+C:\Users\domin\source\repos\MedzioIndukcija\MedzioIndukcija\obj\Debug\MedzioIndukcija.csprojAssemblyReference.cache
+C:\Users\domin\source\repos\MedzioIndukcija\MedzioIndukcija\obj\Debug\MedzioIndukcija.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\MedzioIndukcija\MedzioIndukcija\obj\Debug\MedzioIndukcija.exe
+C:\Users\domin\source\repos\MedzioIndukcija\MedzioIndukcija\obj\Debug\MedzioIndukcija.pdb
